@@ -1,0 +1,31 @@
+body {
+  background-color: #ffdde1; /* Light pink background color */
+}
+
+.App {
+  text-align: center;
+  margin-top: 2rem;
+}
+
+input {
+  margin-left: 0.5rem;
+  padding: 0.5rem;
+  border: 1px solid pink;
+  border-radius: 5px;
+  font-size: 1rem;
+}
+
+button {
+  margin-top: 1rem;
+  padding: 0.5rem 1rem;
+  background-color: pink;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: lightpink;
+}

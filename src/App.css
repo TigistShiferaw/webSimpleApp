@@ -1,10 +1,13 @@
 body {
   background-color: #ffdde1; /* Light pink background color */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
 }
 
 .App {
   text-align: center;
-  margin-top: 2rem;
 }
 
 input {
